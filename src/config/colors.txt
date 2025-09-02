@@ -1,0 +1,4 @@
+#5A5959 : grey
+#FFEAAE : yellow
+#FCCA3F : drak yellow
+#F6820C : orange

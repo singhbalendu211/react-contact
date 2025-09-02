@@ -1,0 +1,20 @@
+# Node / build
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# env / secrets
+.env
+.env.*
+*.secret
+serviceAccount*.json
+*.pem
+*.key
+
+# Editor / OS
+.vscode/
+.DS_Store
