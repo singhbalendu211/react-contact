@@ -10,7 +10,7 @@ Fast, responsive, and deploy-ready with Vercel.
 ---
 ##  Live Demo
 
-🔗 [Click here to try LeetMetric online](https://react-contact-sable.vercel.app/)
+🔗 [Click here to try online](https://react-contact-sable.vercel.app/)
 
 ## ⚡️ Tech Stack
 - React + Vite
