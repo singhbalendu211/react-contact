@@ -37,7 +37,7 @@ A minimal contacts manager built with **React (Vite)** and **Firebase Firestore*
 ```bash
 git clone https://github.com/singhbalendu211/react-contact.git
 cd react-contact
-npm install
+npm install 
 
 Environment
 Fill .env (see .env.example).
