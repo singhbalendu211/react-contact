@@ -1,5 +1,5 @@
 # 📇 Contacts App — React + Vite + Firebase
-
+ 
 A modern **Contact Manager** built with [React](https://react.dev/) (Vite) and [Firebase Firestore](https://firebase.google.com/).  
 Fast, responsive, and deploy-ready with Vercel.
 
